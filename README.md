@@ -1,6 +1,3 @@
-# ComputerNetworks
- computer networks
-
 # **文本反转TCP程序使用说明**
 
 ## **一、项目文件说明**
